@@ -1,3 +1,5 @@
+
+
 ingreso_vector<- function(N){
   A<-c()
   cat("Vector A:\n")
